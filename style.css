@@ -22,7 +22,7 @@ html {
 body {
   background: var(--bg);
   color: var(--text);
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Pretendard", "Noto Sans KR", sans-serif;
+  font-family: "Gungsuh", "궁서체", "Gungsuh Batang", serif;
   line-height: 1.6;
 }
 
